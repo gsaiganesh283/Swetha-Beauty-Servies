@@ -109,12 +109,12 @@ section {
 }
 
 .header .logo img {
-  height: 4rem;
+  height: 10rem;
 }
 
 .header .search-form {
   height: 5rem;
-  width: 50rem;
+  width: 5rem;
   border-radius: .5rem;
   background: #f5f5f5;
   display: -webkit-box;
